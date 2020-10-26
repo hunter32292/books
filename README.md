@@ -32,6 +32,7 @@
 -	Once an Eagle by Anton Myrer 
 -	Principles: Life and Work by Ray Dalio 
 -	The Art of Computer Programming by Donald E. Knuth <https://www-cs-faculty.stanford.edu/~knuth/taocp.html>
+- Operating Systems: Three Easy Pieces by Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau http://pages.cs.wisc.edu/~remzi/OSTEP/
 -	The Design and Implementation of the FreeBSD Operating System (any edition) by Marshall McKusick and George Neville-Neil
 -	The Mythical Man-Month by Fred Brooks
 -	The Power of Habbit by Charles Duhigg
