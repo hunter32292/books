@@ -41,6 +41,7 @@
 -	The Third Door by Alex Banayan 
 -	The Three Body Problem by Cixin Liu 
 -	Think Like a Rocket Scientist by Ozan Varol
+- Systems Performance: Enterprise and the Cloud
 
 
 # Books I'd recommend
