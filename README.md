@@ -8,6 +8,7 @@
 - https://tanzu.vmware.com/content/blog/beyond-the-twelve-factor-app
 
 # Books I want to read
+- https://www.amazon.com/dp/B06X94LHGP/
 - https://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration/dp/0812993012
 - https://www.amazon.com/Startup-Life-Surviving-Relationship-Entrepreneur/dp/1480563862
 - https://www.amazon.com/Doesnt-Have-Be-Crazy-Work/dp/0062874780
