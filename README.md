@@ -48,6 +48,9 @@
 - https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230
 - https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF/
 
+# White Papers to read
+- https://snafucatchers.github.io/
+
 
 # Books I'd recommend
 - https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319 : Awesome book when you want to learn more about how computers actually work, does an amazing job describing how boolean logic is at the heart of how computers function.
