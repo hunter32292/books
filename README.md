@@ -15,6 +15,7 @@
 - https://www.amazon.com/Peopleware-Productive-Projects-Teams-3rd/dp/0321934113
 - https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339
 - https://www.amazon.com/Asshole-Rule-Civilized-Workplace-Surviving/dp/0446698202
+- https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202
 -	Adapt: Why Success Always Starts with Failure by Tim Harford
 -	All You Have to Do is Ask by Wayne Baker
 -	Braving the Wilderness by Brené Brown
