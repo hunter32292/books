@@ -16,6 +16,7 @@
 - https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339
 - https://www.amazon.com/Asshole-Rule-Civilized-Workplace-Surviving/dp/0446698202
 - https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202
+- https://www.amazon.com/Hell-Yeah-How-Tell-Difference-ebook/dp/B07Q8JKFLP
 -	Adapt: Why Success Always Starts with Failure by Tim Harford
 -	All You Have to Do is Ask by Wayne Baker
 -	Braving the Wilderness by Brené Brown
