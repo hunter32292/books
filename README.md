@@ -50,7 +50,7 @@
 - https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230
 - https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF/
 - https://www.amazon.com/Linux-Kernel-Development-Robert-Love/dp/0672329468
-- - https://pragprog.com/titles/gohome/automate-your-home-using-go/
+- https://pragprog.com/titles/gohome/automate-your-home-using-go/
 
 # White Papers to read
 - https://snafucatchers.github.io/
